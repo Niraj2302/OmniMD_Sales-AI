@@ -13,5 +13,5 @@ numpy
 pytest-asyncio
 chromadb
 Pillow
-pyteseract
+pytesseract
 streamlit
